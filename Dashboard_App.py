@@ -12,11 +12,13 @@ import Dashboard_Functions as functions
 
 # Add a title and a short description to the app.
 st.markdown('''
-# Stock Price Dashboard
+# Financial Dashboard Application
 
-A web app to interactively visualise price information and technical indicators for an asset.
+A web app to interactively visualise price information and technical indicators for an asset. 
+Simply specify the asset’s ticker (e.g. TSLA, AAPL, or BTC-USD), the time frame of interest, and whether to see 
+a summary of the business/asset or not (optional).
 
-For more information, please visit the [GitHub repository](https://github.com/KOrfanakis/Financial_Dashboard_App).
+Dataset retrieved from [Yahoo! Finance](https://uk.finance.yahoo.com/). For more information, please visit the [GitHub repository](https://github.com/KOrfanakis/Financial_Dashboard_App).
 ''')
 st.write('---')
 
