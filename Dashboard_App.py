@@ -65,7 +65,7 @@ if ticker:
         ## Information
 
         All prices are in USD ($).''')
-        st.dataframe(info_df.drop(['Summary', 'Logo URL']))
+        st.dataframe(info_df.drop(['Summary', 'Logo URL']).astype(str))
 
         closed_dates_list = functions.get_closed_dates(df)
 
