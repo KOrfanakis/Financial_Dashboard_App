@@ -1,6 +1,11 @@
-# Financial Dashboard Application
+<p align="center">
+  <img src="Images/Repo_title.svg" width="700" title="hover text">
+ 
+  This repository demonstrates how to create a financial dashboard with Python’s <a href="https://streamlit.io/">Streamlit</a> and deploy it to the <a href="https://www.heroku.com/">Heroku</a> cloud platform. 
+  <br>
+</p>
 
-This repository demonstrates how to create a financial dashboard with Python’s [Streamlit](https://streamlit.io/) and deploy it to the [Heroku](https://www.heroku.com/) cloud platform. 
+--- 
 
 - Access the application: [<img src='https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg' width="100" align="center">](https://financial-dashboard-ko.herokuapp.com/)
 - See the application in action: [<img src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' width="40" align="center">](https://youtu.be/kG7MtRgYHgU)
@@ -10,12 +15,15 @@ This repository demonstrates how to create a financial dashboard with Python’s
 
 **Table of Contents**
 
-1. [The Dashboard](the-dashboard)
-2. [Dataset](dataset)
-3. [Files](files)
-4. [Brief Introduction to Technical Indicators](brief-introduction-to-technical-indicators)
-5. [Trading Strategy](trading-strategy)
-6. [References](references)
+<!--ts-->
+1. [The Dashboard](#the-dashboard)
+2. [Dataset](#dataset)
+3. [Files](#files)
+4. [Brief Introduction to Technical Indicators](#brief-introduction-to-technical-indicators)
+5. [Trading Strategy](#trading-strategy)
+6. [References](#references)
+7. [Feedback](#feedback)
+<!--te-->
 
 <br>
 
@@ -107,3 +115,17 @@ on [Investopedia](https://www.investopedia.com/) (Retrieved on Jun 11, 2021).
   [7] [Relative Strength Index (RSI)](https://www.investopedia.com/terms/r/rsi.asp) by Jason Fernando on [Investopedia](https://www.investopedia.com/) (Retrieved on Jun 11, 2021). 
 
   [8] [Compute RSI for stocks with python (Relative Strength Index)](https://tcoil.info/compute-rsi-for-stocks-with-python-relative-strength-index/) by Michal Vasulka on [tcoil.info](https://tcoil.info/) (Retrieved on Jun 10, 2021).
+
+<br>
+
+# Feedback
+
+If you have any feedback or ideas to improve this project, feel free to contact me via:
+
+<a href="https://twitter.com/korfanakis">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://uk.linkedin.com/in/korfanakis">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
