@@ -1,6 +1,7 @@
 <p align="center">
   <img src="Images/Repo_title.svg" width="700" title="hover text">
- 
+</p>
+<p align="center">
   This repository demonstrates how to create a financial dashboard with Python’s <a href="https://streamlit.io/">Streamlit</a> and deploy it to the <a href="https://www.heroku.com/">Heroku</a> cloud platform. 
   <br>
 </p>
