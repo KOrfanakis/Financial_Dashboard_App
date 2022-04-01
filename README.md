@@ -10,7 +10,7 @@
 
 - Access the application: [<img src='https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg' width="100" align="center">](https://financial-dashboard-ko.herokuapp.com/)
 - See the application in action: [<img src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' width="40" align="center">](https://youtu.be/kG7MtRgYHgU)
-- View the app as a notebook: [<img src='https://cdn.freelogovectors.net/wp-content/uploads/2018/06/kaggle-logo.png' width="70" align="center">](https://www.kaggle.com/korfanakis/stock-technical-indicators-for-tesla-macd-rsi)
+- View the app as a notebook: [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png' width="70" align="center">](https://www.kaggle.com/korfanakis/stock-technical-indicators-for-tesla-macd-rsi)
 
 <br>
 
